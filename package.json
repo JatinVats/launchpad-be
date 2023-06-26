@@ -1,5 +1,5 @@
 {
-  "name": "neurolab-mongodb-nodejs",
+  "name": "launchpad-be",
   "version": "1.0.0",
   "description": "Instructions: To install dependencies - npm install To run the code in live reload mode, use command - npm run dev To run the app - npm start",
   "main": "index.js",
@@ -32,13 +32,6 @@
     "@types/jsonwebtoken": "^9.0.1",
     "@types/morgan": "^1.9.4",
     "nodemon": "^2.0.20"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iNeuron-Pvt-Ltd/neurolab-mongodb-nodejs.git"
-  },
-  "bugs": {
-    "url": "https://github.com/iNeuron-Pvt-Ltd/neurolab-mongodb-nodejs/issues"
-  },
-  "homepage": "https://github.com/iNeuron-Pvt-Ltd/neurolab-mongodb-nodejs#readme"
+  }
 }
+  
